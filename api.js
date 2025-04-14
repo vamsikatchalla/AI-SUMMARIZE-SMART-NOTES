@@ -1,4 +1,4 @@
-const apiKey = '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'; // Replace with your API key
+const apiKey = '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'; // Replace with your API key
 
 async function summarizeText(text) {
     const response = await fetch('https://api.example.com/summarize', {
